@@ -1,0 +1,5 @@
+body {font-family:times;}
+h1{text-align: center;color:#FFE000; font-size: 40px}
+p{text-align: center;color:#FFE000; font-size: 25px}
+.MaPageDeFond{background: url(images/paysage.jpg) center no-repeat; background-size: cover; background-attachment: fixed}
+.MaVideoYoutube1{margin-right: 20%; margin-left: 20%;}
